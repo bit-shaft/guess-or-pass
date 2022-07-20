@@ -6,8 +6,11 @@
   "author": "MatheusLittig <littig.works@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
     "@types/node": "^18.0.6",
     "@types/react": "^18.0.15",
+    "husky": "^8.0.1",
     "typescript": "^4.7.4"
   }
 }
