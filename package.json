@@ -1,0 +1,8 @@
+{
+  "name": "guess-or-pass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bit-shaft/guess-or-pass.git",
+  "author": "MatheusLittig <littig.works@gmail.com>",
+  "license": "MIT"
+}
